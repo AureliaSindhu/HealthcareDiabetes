@@ -1,5 +1,5 @@
 # HealthcareDiabetes
-<hr>
+
 <h2> Project Description </h2>
 <p> ### </p>
 
