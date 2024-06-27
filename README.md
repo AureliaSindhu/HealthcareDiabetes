@@ -12,10 +12,10 @@
 <p> ### </p>
 
 <h2> Team </h2>
-**Aurelia Sindhunirmala**
-:e_mail: aurelia.sindhu@gmail.com
-:link: https://www.linkedin.com/in/aurelia-sindhunirmala-b14280216/
+<p> **Aurelia Sindhunirmala**</p>
+<p> Email: aurelia.sindhu@gmail.com </p>
+<p> LinkedIn: linkedin.com/in/aurelia-sindhunirmala-b14280216/</p>
 
-**Britaney Do**
-:e_mail: britaney.do@gmail.com
-:link: https://www.linkedin.com/in/britaney-do-6866a9230/
+<p> **Britaney Do**</p>
+<p> Email: britaney.do@gmail.com </p>
+<p> LinkedIn: linkedin.com/in/britaney-do-6866a9230/</p>
