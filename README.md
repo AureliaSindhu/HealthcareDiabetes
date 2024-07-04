@@ -12,7 +12,10 @@
 
 <h2>💻 Tech Stack</h2>
 <ul> 
-  <p><strong>Programming Languages</strong>: </p> ![Python](https://img.shields.io/badge/python-3670A0?style=for-thebadge&logo=python&logoColor=ffdd54) 
+  <p><strong>Programming Languages</strong>: </p> 
+  <ul>
+    <li> Python </li>
+  </ul>
   <p><strong>Libraries and Frameworks:</strong></p>
     <ul> 
       <li> Pandas </li>
