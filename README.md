@@ -11,14 +11,15 @@
 <p>To develop a predictive model for diabetes outcomes using decision tree classifiers and analyze its performance using various evaluation metrics.</p>
 
 <h2>Tech Stack</h2>
-<li> Programming Languages: Python </li>
-<li> Libraries and Frameworks: 
-  <li> Pandas </li>
-  <li> Matplotlib </li>
-  <li> Seaborn </li>
-  <li> NumPy </li>
-  <li> Scikit-learn (sklearn)</li>
-</li>
+<ul> 
+  <p> **Programming Languages**: Python </p>
+  <p> **Libraries and Frameworks: **</p>
+    <li> Pandas </li>
+    <li> Matplotlib </li>
+    <li> Seaborn </li>
+    <li> NumPy </li>
+    <li> Scikit-learn (sklearn)</li>
+</ul>
 
 <h2>Team</h2>
 <p><strong>Aurelia Sindhunirmala</strong></p>
