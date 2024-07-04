@@ -1,4 +1,5 @@
 <h1>HealthcareDiabetes</h1>
+![1](https://github.com/AureliaSindhu/HealthcareDiabetes/assets/100260518/789811cc-90ec-4dc7-b9f8-b35a9243580d)
 
 <h2>Project Description</h2>
 <p>This project focuses on predicting diabetes using machine learning models and evaluating their performance through various metrics and visualizations. The dataset used for analysis is sourced from Kaggle, providing insights into factors influencing diabetes outcomes.</p>
