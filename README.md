@@ -1,6 +1,6 @@
 # Diabetes Prediction and Evaluation
 
-![Project Screenshot](https://github.com/AureliaSindhu/HealthcareDiabetes/assets/100260518/3d3fcada-76a0-4365-82f6-8b4f2da746fc)
+![Project](https://github.com/AureliaSindhu/HealthcareDiabetes/assets/100260518/fbed8130-3814-40eb-9294-129b1736beae)
 
 ## 🖇️ Project Description
 
