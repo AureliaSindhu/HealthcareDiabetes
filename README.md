@@ -1,13 +1,12 @@
 <h1>HealthcareDiabetes</h1>
 
 <h2>Project Description</h2>
-<p><!-- Add your project description here --></p>
-<p>###</p>
+<p>This project focuses on predicting diabetes using machine learning models and evaluating their performance through various metrics and visualizations. The dataset used for analysis is sourced from Kaggle, providing insights into factors influencing diabetes outcomes.</p>
+
 <p><strong><a href="https://www.canva.com/design/DAGJS8atnk4/0-lkIm1PARw5djrRL1zI0A/edit?utm_content=DAGJS8atnk4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Presentation Slides</a></strong></p>
 
 <h2>Goal</h2>
-<p><!-- Add your project goal here --></p>
-<p>###</p>
+<p>To develop a predictive model for diabetes outcomes using decision tree classifiers and analyze its performance using various evaluation metrics.</p>
 
 <h2>Steps to Run the Program</h2>
 <p><!-- Add the steps to run the program here --></p>
