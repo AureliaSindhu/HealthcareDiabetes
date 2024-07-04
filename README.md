@@ -24,7 +24,7 @@ To develop a predictive model for diabetes outcomes using decision tree classifi
 - NumPy
 - Scikit-learn (sklearn)
 
-## Team
+## 👥 Team
 
 ### Aurelia Sindhunirmala
 - Email: [aurelia.sindhu@gmail.com](mailto:aurelia.sindhu@gmail.com)
