@@ -1,4 +1,4 @@
-<h1>HealthcareDiabetes</h1>
+<h1>Diabetes Prediction and Evaluation</h1>
 
 <img width="1440" alt="Screenshot 2024-06-09 at 6 28 39 PM" src="https://github.com/AureliaSindhu/HealthcareDiabetes/assets/100260518/3d3fcada-76a0-4365-82f6-8b4f2da746fc">
 
@@ -10,9 +10,15 @@
 <h2>Goal</h2>
 <p>To develop a predictive model for diabetes outcomes using decision tree classifiers and analyze its performance using various evaluation metrics.</p>
 
-<h2>Steps to Run the Program</h2>
-<p><!-- Add the steps to run the program here --></p>
-<p>###</p>
+<h2>Tech Stack</h2>
+<li> Programming Languages: Python </li>
+<li> Libraries and Frameworks: 
+  <li> Pandas </li>
+  <li> Matplotlib </li>
+  <li> Seaborn </li>
+  <li> NumPy </li>
+  <li> Scikit-learn (sklearn)</li>
+</li>
 
 <h2>Team</h2>
 <p><strong>Aurelia Sindhunirmala</strong></p>
