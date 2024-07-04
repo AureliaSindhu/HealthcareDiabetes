@@ -12,13 +12,15 @@
 
 <h2>Tech Stack</h2>
 <ul> 
-  <p> **Programming Languages**: Python </p>
-  <p> **Libraries and Frameworks: **</p>
-    <li> Pandas </li>
-    <li> Matplotlib </li>
-    <li> Seaborn </li>
-    <li> NumPy </li>
-    <li> Scikit-learn (sklearn)</li>
+  <p><strong>Programming Languages</strong>: Python </p>
+  <p><strong>Libraries and Frameworks:</strong></p>
+    <ul> 
+      <li> Pandas </li>
+      <li> Matplotlib </li>
+      <li> Seaborn </li>
+      <li> NumPy </li>
+      <li> Scikit-learn (sklearn)</li>
+    </ul>
 </ul>
 
 <h2>Team</h2>
