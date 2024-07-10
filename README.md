@@ -1,6 +1,6 @@
 # Diabetes Prediction and Evaluation
 
-![Project](![Health Diabetes Analysis](https://github.com/AureliaSindhu/HealthcareDiabetes/assets/100260518/6f36bc5f-6cb5-461b-9748-84597c4e4918))
+![Project](https://github.com/AureliaSindhu/HealthcareDiabetes/assets/100260518/6f36bc5f-6cb5-461b-9748-84597c4e4918)
 
 ## 🖇️ Project Description
 This project focuses on predicting diabetes using machine learning models and evaluating their performance through various metrics and visualizations. The dataset used for analysis is sourced from Kaggle, providing insights into factors influencing diabetes outcomes.
