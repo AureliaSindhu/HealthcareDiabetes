@@ -11,7 +11,7 @@ Additionally, view our presentation video [here](https://drive.google.com/file/d
 
 ### 📚Datasets
 In this project, we decided to use a publicly avaialble datasets from Kaggle.
-Here is the link to the dataset: [Dataset](https://www.kaggle.com/datasets/skhand3/losses-in-thousands)
+Here is the link to the dataset: [Dataset](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes)
 
 ## 🏆 Goal
 To develop a predictive model for diabetes outcomes using decision tree classifiers and analyze its performance using various evaluation metrics.
