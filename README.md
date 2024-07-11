@@ -28,9 +28,6 @@ To develop a predictive model for diabetes outcomes using decision tree classifi
 - Numpy
 - Scikit-learn (sklearn)
 
-## 🔮What's next for this project? 
-xx
-
 ## 📝License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
